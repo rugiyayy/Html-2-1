@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(88,85,72);
+}
+
+h1{
+    margin: 40px 0px;
+}
+span{
+    color:yellow;
+}
+h1,h3{
+    text-transform: uppercase ;
+    color: rgb(165,192,243);
+}
+
+li,p{
+    color: white;
+}
+a{
+    color: red;
+}
+.secondImg{
+    width: 27%; 
+    height: 42vh;
+}
+div{
+    margin-top: 5px;
+}
