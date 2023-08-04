@@ -26,3 +26,13 @@ a{
 div{
     margin-top: 5px;
 }
+::-webkit-scrollbar{
+    width: 15px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: red;
+}
+::selection{
+background-color:white;
+color: black;
+}
